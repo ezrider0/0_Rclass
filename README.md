@@ -1,4 +1,5 @@
-R_class
-=======
+ Just learning R programming.
+ This is a practice file.
+ Created on 4/19/15.
 
-Just learning R programming
+ 
